@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "D8jgkh1i4/6jkYyU8xvsR8tPfcR5UsNGUVnxQUHtyV3OH0QN2ydsv7qUtlPN+yE8g7QFYAA0r6u82aEQ9LV1Hw==",
+  "dgSpecHash": "/9Hi6jhZm5x5Lrz0/pn/b3U9gjKGHsoG49IagY6Y2n750gyPGW2QB654Rwd5doprRdrGhKSB20P5JhyEOy1V+g==",
   "success": true,
   "projectFilePath": "/Users/herringfamily/Desktop/skinet/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/herringfamily/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/herringfamily/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/herringfamily/.nuget/packages/microsoft.aspnetcore.openapi/7.0.3/microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "/Users/herringfamily/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/herringfamily/.nuget/packages/microsoft.data.sqlite.core/7.0.4/microsoft.data.sqlite.core.7.0.4.nupkg.sha512",
     "/Users/herringfamily/.nuget/packages/microsoft.entityframeworkcore/7.0.4/microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
     "/Users/herringfamily/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.4/microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",
